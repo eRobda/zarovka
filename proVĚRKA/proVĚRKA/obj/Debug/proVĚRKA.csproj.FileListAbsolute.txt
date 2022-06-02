@@ -1,0 +1,8 @@
+C:\Users\ustohalr\Desktop\programko\proVĚRKA\proVĚRKA\bin\Debug\proVĚRKA.exe.config
+C:\Users\ustohalr\Desktop\programko\proVĚRKA\proVĚRKA\bin\Debug\proVĚRKA.exe
+C:\Users\ustohalr\Desktop\programko\proVĚRKA\proVĚRKA\bin\Debug\proVĚRKA.pdb
+C:\Users\ustohalr\Desktop\programko\proVĚRKA\proVĚRKA\obj\Debug\proVĚRKA.csproj.AssemblyReference.cache
+C:\Users\ustohalr\Desktop\programko\proVĚRKA\proVĚRKA\obj\Debug\proVĚRKA.csproj.SuggestedBindingRedirects.cache
+C:\Users\ustohalr\Desktop\programko\proVĚRKA\proVĚRKA\obj\Debug\proVĚRKA.csproj.CoreCompileInputs.cache
+C:\Users\ustohalr\Desktop\programko\proVĚRKA\proVĚRKA\obj\Debug\proVĚRKA.exe
+C:\Users\ustohalr\Desktop\programko\proVĚRKA\proVĚRKA\obj\Debug\proVĚRKA.pdb
